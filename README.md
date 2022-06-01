@@ -18,7 +18,7 @@ $ pip install supercli
 
 - step 6 -- check the working of CLI tool by running this command super --help
 
-- step 7 -- super -i <your csv file> <dependency>
+- step 7 -- super -i "<"your csv file">" "<"dependency">"
 
 For example - <br>
 super -i dyte_input1.csv axios@0.23.0
