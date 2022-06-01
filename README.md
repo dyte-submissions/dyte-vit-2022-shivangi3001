@@ -26,6 +26,11 @@ super -i dyte_input1.csv axios@0.23.0
 <br>
 <br>
 
+## Output
+
+![image](https://user-images.githubusercontent.com/56307595/171476803-dd10f4dc-763d-49d7-9533-c9a5d6d43fa6.png)
+
+
 <!--
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7946611&assignment_repo_type=AssignmentRepo)
 -->
