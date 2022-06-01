@@ -1,23 +1,35 @@
+# SuperCli Tool
+
+<h1 align="center">One and only tool for all your version related issue!!</h1>
+
+SuperCLI is a Python CLI tool to access all the repo files of any user/organizations and compare the version dependency with the existing ones
+
+## Install
+
+$ pip install supercli
+
+## Simple Demo
+
+- Step 1 -- Clone the repo
+- Step 2 -- pip install supercli
+- Step 3 -- cd into the folder
+- step 4 -- in the terminal run pip istall --editable .
+- step 5 -- Once the supercli.egg-info is created in your root then
+
+- step 6 -- check the working of CLI tool by running this command super --help
+
+- step 7 -- super -i <your csv file> <dependency>
+
+For example - <br>
+super -i dyte_input1.csv axios@0.23.0
+
+<br>
+<br>
+
+<!--
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7946611&assignment_repo_type=AssignmentRepo)
-
+-->
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
-Checking commit working
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
